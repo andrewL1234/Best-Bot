@@ -8,7 +8,7 @@
     "node": "8.12.0"
   },
 
-  
+  /**
   "scripts": {
     "start": "node andrewsbot.js"
   },
@@ -16,4 +16,5 @@
     "discord.js": "11.5.0",
     "request": "2.81.0"
   }
+  **/
 }
